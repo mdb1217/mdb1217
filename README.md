@@ -3,12 +3,19 @@
 - #### 💬Blog
     https://blog.naver.com/mdb1217
     
-- #### 💬I'm currently learning
+- #### 📫I'm currently learning
     - Android
     
     - Algorithm 
     
     - Spring
+    
+- #### 🌱I'm currently in..
+    - SOPT
+    
+    - ITDA 
+    
+    - Sookmyung Women's University
 <!--
 **mdb1217/mdb1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
