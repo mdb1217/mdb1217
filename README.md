@@ -16,6 +16,8 @@
     - ITDA 
     
     - Sookmyung Women's University
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mdb1217)](https://solved.ac/mdb1217)
 <!--
 **mdb1217/mdb1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
