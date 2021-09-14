@@ -15,7 +15,7 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdb1217&hide=stars&show_icons=true&theme=dracula&count_private=true&line_height=32"> [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mdb1217)](https://solved.ac/mdb1217)
+<img src="https://github-readme-stats.vercel.app/api?username=mdb1217&hide=stars&show_icons=true&theme=white&count_private=true&line_height=26"> [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mdb1217)](https://solved.ac/mdb1217)
 
 
 
